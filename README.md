@@ -1,5 +1,9 @@
 # Social Network API
 
+## Link to Deployed App Video
+
+[video demo of application](https://drive.google.com/file/d/1C2PSy1JK0rb24eW_RqK5TLvfcBkG_A23/view?usp=sharing)
+
 ## Description
 
 An API that can be used for a Social Network application.
